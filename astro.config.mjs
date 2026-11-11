@@ -3,7 +3,7 @@ import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://devinekask.github.io/",
+  site: "https://howestdevine.github.io",
   base: "/workflows",
   integrations: [
     starlight({
@@ -12,7 +12,7 @@ export default defineConfig({
       customCss: ["./src/styles/custom.css"],
       lastUpdated: true,
       editLink: {
-        baseUrl: "https://github.com/devinekask/workflows/edit/main/",
+        baseUrl: "https://github.com/howestdevine/workflows/edit/main/",
       },
       logo: {
         src: "./src/assets/img/devinelogo.svg",
