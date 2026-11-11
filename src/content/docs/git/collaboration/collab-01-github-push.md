@@ -13,7 +13,7 @@ That is why we use a hosted git environment. There are several options for this,
 <details>
 <summary>Looking for the starting files?</summary>
 
-The ideal way to follow this walkthrough is to go over the previous topics first. If you want to skip to this topic, you can [download the starting files here.](https://github.com/devinekask/workflows-git-steps/archive/refs/heads/step/branches.zip)
+The ideal way to follow this walkthrough is to go over the previous topics first. If you want to skip to this topic, you can [download the starting files here.](https://github.com/howestdevine/workflows-git-steps/archive/refs/heads/step/branches.zip)
 
 Be aware that you will have to initialize a git repository first via `git init` in the unzipped folder.
 
